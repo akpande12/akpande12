@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akpande12
 - 👀 I’m interested in programming
-- 🌱 I’m from amrutvahini polytechnic
+- 🌱 I’m from amrutvahini polytechnic,sangamner
 
 
 <!---
